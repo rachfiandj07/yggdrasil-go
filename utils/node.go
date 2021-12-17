@@ -7,7 +7,7 @@ import (
 	"strings"
 	"unicode/utf8"
 
-	"github.com/m1gwings/treedrawer/drawer"
+	"yggdrasil-go/lib/drawer"
 )
 
 type NodeValue interface {

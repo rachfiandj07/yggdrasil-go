@@ -6,7 +6,7 @@ import (
 	"math"
 	"sort"
 
-	"github.com/m1gwings/treedrawer/drawer"
+	"yggdrasil-go/lib/drawer"
 )
 
 func pencil(t *Tree) *drawer.Drawer {
